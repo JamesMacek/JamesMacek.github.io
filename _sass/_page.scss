@@ -30,8 +30,25 @@
     .page__meta,
     .page__share {
       @include full();
+      
     }
   }
+
+  // Adding breaks for text length (% of the page!)
+    @include breakpoint($large) {
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 0.9*($large - $large-sb); // subtract scrollbar width-- see variables.scss. 0.9 factor makes it not get pushed down
+
+    }
+    
+    @include breakpoint($x-large) {
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 0.9*($x-large - $x-large-sb); // subtract scrollbar width-- see variables.scss
+
+    }
+
 }
 
 .page__title {
@@ -105,6 +122,7 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
 }
 
 .page__hero {

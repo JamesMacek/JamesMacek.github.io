@@ -22,11 +22,15 @@
     &:hover {
       opacity: 1;
     }
+
+    padding-right: 0px; // padding at large breakpoint (removing padding?)
+    width: $large-sb; //adjusting width to 1/3 of large at this break-- see _variables.scss
   }
 
 
   @include breakpoint($x-large) {
-    padding-right: 0;
+    padding-right: 0px; // padding at x-large breakpoint (removing padding?)
+    width: $x-large-sb; //adjusting width to 1/3 of x-large at this break -- see _variables.scss
   }
 
   h2, h3, h4, h5, h6 {
@@ -39,23 +43,24 @@
   }
 
   p, li {
-    font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-family: $monospace; //change to monospace font, note: macro in _sass/_variables.scss
+    font-size: $type-size-5;
     line-height: 1.5;
   }
 
   img {
-    width: 100%;
+    width: 100%; // !Controls image sidebar length! (But image will overlap with other fields)
   }
 }
 
+//sidebar__right usually does not appear on the webpage, doesn't do much
 .sidebar__right {
   margin-bottom: 1em;
 
   @include breakpoint($large) {
     position: relative;
     float: right;
-    width: $right-sidebar-width-narrow;
+    width: $right-sidebar-width-narrow; // I dont think this does anything.
     margin-left: span(0.5 of 12);
     z-index: 10;
   }
@@ -71,27 +76,28 @@
 
 .author__avatar {
   display: table-cell;
-  vertical-align: top;
-  width: 36px;
+  vertical-align: top; // photo and other things alligned at the top when there's no breakpoint.
+  width: 250px; // set 100px -- only will adjust when at no breakpoint (smallest screen size)
   // set width only, for non-square avatars
   // height: 36px;
 
-  @include breakpoint($large) {
+  @include breakpoint($large) { //This breakpoint is when website is enlarged and info bar alligned left
     display: block;
-    width: auto;
+    width: auto; //This means browser calculates automatically for resizing? This is why we can't edit it directly.
     height: auto;
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 2500px; //This is the max width allowable for the picture. This will not change the
+                       //actual width-- see above. sidebar length will determine max side of the picture.
+    //border-radius: 75%; no circle border. I want square photo.
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 0px solid $border-color; // no border color
     }
   }
-}
+} // end author__avatar
 
 .author__content {
   display: table-cell;
@@ -117,8 +123,17 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $monospace; // change author name to monospace
   font-size: $type-size-5;
+
+  @include breakpoint($large) {
+    margin-left: (0.2 * $large-sb) ; //alligning name to midpoint of sidebar for x-large and large. 0.25 works well.
+  }
+
+  @include breakpoint($x-large) {
+    margin-left: (0.27 * $x-large-sb)
+  }
+  
 }
 
 .author__bio {
@@ -134,7 +149,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: monospace;
   z-index: 10;
   position: relative;
   cursor: pointer;
@@ -164,7 +179,7 @@
   right: 0;
   margin-top: 15px;
   padding: 10px;
-  list-style-type: none;
+  list-style-type: japanese-informal; //add cool lists
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background: #fff;
