@@ -116,6 +116,7 @@
 
 .author__name {
   margin: 0;
+  margin-top: 100px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -148,7 +149,7 @@
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: top; //top allignment of follow button, looks weird otherwise on mobile
   font-family: monospace;
   z-index: 10;
   position: relative;
@@ -166,6 +167,7 @@
 
   button {
     margin-bottom: 0;
+    margin-top: 100px;
 
     @include breakpoint($large) {
       display: none;

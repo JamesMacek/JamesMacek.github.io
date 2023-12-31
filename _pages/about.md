@@ -14,5 +14,5 @@ I'm interested in **urban, real estate and spatial economics**.
 Most of my work studies the **regulation of housing markets**. 
 
 
-[![Great Slave Lake, NYT, CA](/images/ylc.jpg)](https://www.google.com/maps/place/Yellowknife,+NT/@62.474917,-114.4913941,12z/data=!3m1!4b1!4m6!3m5!1s0x53d1f12ca34682c9:0xb4c137244371ef81!8m2!3d62.4539717!4d-114.3717887!16zL20vMHByZmc?entry=ttu) 
+[![Great Slave Lake, NYT, CA](/images/ylc.jpg) **Yellowknife, NT, CA** ](https://www.google.com/maps/place/Yellowknife,+NT/@62.474917,-114.4913941,12z/data=!3m1!4b1!4m6!3m5!1s0x53d1f12ca34682c9:0xb4c137244371ef81!8m2!3d62.4539717!4d-114.3717887!16zL20vMHByZmc?entry=ttu) 
 

@@ -96,16 +96,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JamesMacek"
+  github           : "JamesMacek" #just the name of your profile
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "james-macek" #url after /in/ 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       :
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
@@ -173,12 +173,18 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# Collections, add two new classes
 collections:
   teaching:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  workingpapers:
+    output: true
+    permalink: /:collection/:path/
+  worksinprogress:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -222,6 +228,24 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _workingpapers
+  - scope:
+      path: ""
+      type: workingpapers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _workingpapers
+  - scope:
+      path: ""
+      type: worksinprogress
     values:
       layout: single
       author_profile: true

@@ -5,5 +5,13 @@ author_profile: true
 ---
 
 {% include base_path %}
+<br><br/>
 
-under construction.
+<h2> Works in progress </h2>
+
+{% for post in site.worksinprogress reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
