@@ -90,7 +90,7 @@
   img {
     max-width: 2500px; //This is the max width allowable for the picture. This will not change the
                        //actual width-- see above. sidebar length will determine max side of the picture.
-    //border-radius: 75%; no circle border. I want square photo.
+    border-radius: 85%; // put back border. 
 
     @include breakpoint($large) {
       padding: 5px;
@@ -128,11 +128,11 @@
   font-size: $type-size-5;
 
   @include breakpoint($large) {
-    margin-left: (0.2 * $large-sb) ; //alligning name to midpoint of sidebar for x-large and large. 0.25 works well.
+    margin-left: (0.29 * $large-sb) ; //alligning name to midpoint of sidebar for x-large and large. 0.25 works well.
   }
 
   @include breakpoint($x-large) {
-    margin-left: (0.27 * $x-large-sb)
+    margin-left: (0.35 * $x-large-sb)
   }
   
 }
