@@ -1,9 +1,10 @@
 ---
-title: "Lot Sizes, Welfare, and Urban Structure: A view from the US"
+title: "Housing Regulation and Neighborhood Sorting Across the United States <br> (Job Market Paper)"
 collection: worksinprogress
 permalink: /research/lswus
 date: 2023-12-30
 ---
+<small>*[Honorable mention](https://urbaneconomics.org/meetings/awards.html) for best student paper at the 2024 Urban Economics Association european meeting*.<small>
 <details><summary>Abstract:</summary>
 <br/>
 In this paper, I consider the effect of minimum lot size regulation on welfare and urban
