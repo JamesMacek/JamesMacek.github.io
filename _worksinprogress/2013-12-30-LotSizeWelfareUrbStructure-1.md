@@ -2,12 +2,13 @@
 title: "Housing Regulation and Neighborhood Sorting Across the United States <br> (Job Market Paper)"
 collection: worksinprogress
 permalink: /research/lswus
-date: 2023-12-30
+category: manuscripts
+date: 2024-09-01
 ---
-<small>*[Honorable mention](https://urbaneconomics.org/meetings/awards.html) for best student paper at the 2024 Urban Economics Association european meeting*.<small>
+<small>*[Honorable mention](https://urbaneconomics.org/meetings/awards.html) for best student paper at the 2024 Urban Economics Association European meeting*.<small>
 <details><summary>Abstract:</summary>
 <br/>
-In this paper, I consider the effect of minimum lot size regulation on welfare and urban
+<small>In this paper, I consider the effect of minimum lot size regulation on welfare and urban
 structure. I show that minimal lots are the most expensive in the low-density neighborhoods
 of productive cities, and this can explain the sorting on income into these cities and neighborhoods.
 Motivated by this evidence, I construct a general equilibrium model in which households
@@ -19,5 +20,5 @@ expansion of productive cities is largely nullified by the out-migration of affl
 who prefer regulated neighborhoods. Second, the neighborhood choice externality arising
 from the demand for affluent neighbors matters little for the average household, but has important
 distributional consequences. These results suggest that the most important consequence
-of deregulating housing markets is increasing housing affordability.
+of deregulating housing markets is increasing housing affordability. </small>
 </details>
