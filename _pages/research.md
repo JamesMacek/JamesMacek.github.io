@@ -5,12 +5,14 @@ author_profile: true
 ---
 
 {% include base_path %}
-<br><br/>
+<br/>
 
 <h2> Works in progress </h2>
+<br/>
 
 {% for post in site.worksinprogress reversed %}
   {% include archive-single.html %}
+<br style="line-height: 0.25;"/>
 {% endfor %}
 
 

@@ -3,7 +3,7 @@ title: "Housing Regulation and Neighborhood Sorting Across the United States <br
 collection: worksinprogress
 permalink: /research/lswus
 category: manuscripts
-date: 2024-09-01
+date: 2024-09-02
 ---
 <small>*[Honorable mention](https://urbaneconomics.org/meetings/awards.html) for best student paper at the 2024 Urban Economics Association European meeting*.<small>
 <details><summary>Abstract:</summary>
