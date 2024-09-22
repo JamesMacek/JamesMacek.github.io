@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD student in economics at the [University of Toronto](https://www.utoronto.ca). \
 <br/>
 I'm interested in **urban, real estate and spatial economics**. 
-Most of my work studies the **regulation of housing markets**. 
+Most of my work studies **housing affordability** and **regulation**. 
 
 I am on the job market in 2024/25. You can find my CV [here.](../files/CV-JamesMacek_JM.pdf) Thanks for your interest!
 <br/>
