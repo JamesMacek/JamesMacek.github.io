@@ -6,7 +6,7 @@ category: manuscripts
 date: 2024-10-23
 ---
 <small>*[Honorable mention](https://urbaneconomics.org/meetings/awards.html) for best student paper at the 2024 Urban Economics Association European meeting*. 
-       *[Finalist](https://www.bankofcanada.ca/wp-content/uploads/2014/11/2024-bank-canada-student-paper-award.pdf) for the Bank of Canada Student Award*.<small> 
+       *[Winner](https://www.bankofcanada.ca/wp-content/uploads/2014/11/2024-bank-canada-student-paper-award.pdf) of the Bank of Canada Student Award*.<small> 
 <details><summary>Abstract:</summary>
 <br/>
 <small> In this paper, I consider the effect of minimum lot size regulation on welfare and urban structure. I
