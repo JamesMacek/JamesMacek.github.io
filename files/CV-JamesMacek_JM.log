@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.7)  25 OCT 2024 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.7)  10 NOV 2024 09:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -519,17 +519,12 @@ Overfull \hbox (33.71333pt too wide) in paragraph at lines 64--75
  []
 
 
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 105--112
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 105--114
 [][] 
  []
 
 
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 120--130
-[][] 
- []
-
-
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 131--142
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 122--132
 [][] 
  []
 
@@ -537,41 +532,50 @@ Overfull \hbox (33.71333pt too wide) in paragraph at lines 131--142
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{C:/Users/james/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 155--163
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 133--144
 [][] 
  []
 
 
-Overfull \hbox (23.71333pt too wide) in paragraph at lines 172--175
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 157--165
 [][] 
  []
 
 
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 183--186
+Overfull \hbox (23.71333pt too wide) in paragraph at lines 174--177
 [][] 
  []
 
 
-Overfull \hbox (23.71333pt too wide) in paragraph at lines 193--197
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 185--188
 [][] 
  []
 
-[2]
-Overfull \hbox (20.79012pt too wide) in paragraph at lines 240--241
+
+Overfull \hbox (23.71333pt too wide) in paragraph at lines 195--199
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+[3]
+Overfull \hbox (20.79012pt too wide) in paragraph at lines 242--243
 | 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--252
+Underfull \hbox (badness 10000) in paragraph at lines 252--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
-[3] (CV-JamesMacek_JM.aux)
+[4] (CV-JamesMacek_JM.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
@@ -580,13 +584,13 @@ Package rerunfilecheck Info: File `CV-JamesMacek_JM.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10790 strings out of 474495
- 164888 string characters out of 5743936
- 1949460 words of memory out of 5000000
+ 10791 strings out of 474495
+ 164894 string characters out of 5743936
+ 1947460 words of memory out of 5000000
  32764 multiletter control sequences out of 15000+600000
  567713 words of font info for 72 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 71i,10n,79p,1412b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,10n,79p,1412b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\james\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -600,9 +604,9 @@ ames/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
 Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmti10.pfb>
-Output written on CV-JamesMacek_JM.pdf (3 pages, 150242 bytes).
+Output written on CV-JamesMacek_JM.pdf (4 pages, 151333 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
+ 80 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
