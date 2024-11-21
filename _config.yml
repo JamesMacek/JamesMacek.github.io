@@ -86,7 +86,7 @@ author:
   location         : "Toronto, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com" link to gs
+  googlescholar    : https://scholar.google.ca/citations?hl=en&user=RCBIAWcAAAAJ # link to gs
   email            : "james.macek@mail.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
