@@ -83,11 +83,11 @@ author:
   name             : "James Macek"
   avatar           : "profile.png"
   bio              : " " #Empty bio for spacing
-  location         : "Toronto, CA"
+  location         : "Edmonton, AB"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.ca/citations?hl=en&user=RCBIAWcAAAAJ # link to gs
-  email            : "james.macek@mail.utoronto.ca"
+  email            : "jmacek@ualberta.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "james-macek" #url after /in/ 
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-6351-8119"
   pinterest        :
   soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username

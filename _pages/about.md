@@ -7,12 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in economics at the [University of Toronto](https://www.utoronto.ca). \
-<br/>
-I'm interested in **urban, real estate, macroeconomics, and spatial economics**. 
-Most of my work studies **housing affordability** and **regulation**. 
+I am an Assistant Professor in the Marketing, Business Economics, and Law department at the [Alberta School of Business](https://www.ualberta.ca/en/business/index.html). <br/>
 
-I am on the job market in 2024/25. My [Job Market Paper](https://jamesmacek.github.io/research/lswus) studies the macroeconomic implications of minimum lot size regulation for productivity, neighborhood amenity value, and inequality.
+I'm interested in **urban, real estate, and spatial economics**. 
+Most of my [work](https://jamesmacek.github.io/research) studies **housing affordability** and **regulation**. 
 
 You can find my CV [here.](../files/CV-JamesMacek_JM.pdf) Thanks for your interest!
 <br/>
