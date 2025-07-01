@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.31)  17 DEC 2024 22:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.31)  1 JUL 2025 12:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -514,17 +514,17 @@ Overfull \hbox (76.39247pt too wide) in paragraph at lines 44--50
  []
 
 
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 64--75
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 64--68
 [][] 
  []
 
 
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 105--114
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 76--87
 [][] 
  []
 
 
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 122--132
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 131--139
 [][] 
  []
 
@@ -532,27 +532,32 @@ Overfull \hbox (33.71333pt too wide) in paragraph at lines 122--132
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{C:/Users/James/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 133--144
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 147--157
 [][] 
  []
 
 
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 157--165
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 158--169
 [][] 
  []
 
 
-Overfull \hbox (23.71333pt too wide) in paragraph at lines 174--177
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 182--188
 [][] 
  []
 
 
-Overfull \hbox (33.71333pt too wide) in paragraph at lines 185--188
+Overfull \hbox (23.71333pt too wide) in paragraph at lines 197--200
 [][] 
  []
 
 
-Overfull \hbox (23.71333pt too wide) in paragraph at lines 195--199
+Overfull \hbox (33.71333pt too wide) in paragraph at lines 208--211
+[][] 
+ []
+
+
+Overfull \hbox (23.71333pt too wide) in paragraph at lines 218--222
 [][] 
  []
 
@@ -560,22 +565,7 @@ Overfull \hbox (23.71333pt too wide) in paragraph at lines 195--199
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-[3]
-Overfull \hbox (20.79012pt too wide) in paragraph at lines 242--243
-| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--254
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
-
- []
-
-[4] (CV-JamesMacek_JM.aux)
+[3] (CV-JamesMacek_JM.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -584,29 +574,28 @@ Package rerunfilecheck Info: File `CV-JamesMacek_JM.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10791 strings out of 474485
- 164822 string characters out of 5743734
- 1947542 words of memory out of 5000000
+ 10790 strings out of 474485
+ 164812 string characters out of 5743734
+ 1944542 words of memory out of 5000000
  32774 multiletter control sequences out of 15000+600000
- 567713 words of font info for 72 fonts, out of 8000000 for 9000
+ 567707 words of font info for 72 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 71i,10n,79p,1412b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,10n,79p,607b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\James\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/James/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/James/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/James/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/James/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/James/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/James/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/James/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/J
-ames/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
-Users/James/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb><C:/Users/James/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmti10.pfb>
-Output written on CV-JamesMacek_JM.pdf (4 pages, 151473 bytes).
+eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/James/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/James/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/James/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Jam
+es/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Users/James/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10
+.pfb>
+Output written on CV-JamesMacek_JM.pdf (3 pages, 130780 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
+ 73 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
