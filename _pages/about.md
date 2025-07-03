@@ -12,7 +12,7 @@ I am an Assistant Professor in the Marketing, Business Economics, and Law depart
 I'm interested in **urban, real estate, and spatial economics**. 
 Most of my [work](https://jamesmacek.github.io/research) studies **housing affordability** and **regulation**. 
 
-You can find my CV [here.](../files/CV-JamesMacek_JM.pdf) Thanks for your interest!
+You can find my CV [here](../files/CV-JamesMacek_JM.pdf). Thanks for your interest!
 <br/>
 <br/>
 

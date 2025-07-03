@@ -43,8 +43,8 @@
   }
 
   p, li {
-    font-family: $monospace; //change to monospace font, note: macro in _sass/_variables.scss
-    font-size: $type-size-5;
+    font-family: $global_font_family; //sidebar now controlled by global font family
+    font-size: 0.85em;
     line-height: 1.5;
   }
 
@@ -124,7 +124,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $monospace; // change author name to monospace
+  font-family: $global_font_family; // change author name to monospace
   font-size: $type-size-5;
 
   @include breakpoint($large) {

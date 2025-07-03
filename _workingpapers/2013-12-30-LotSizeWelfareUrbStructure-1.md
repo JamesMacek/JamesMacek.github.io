@@ -5,7 +5,7 @@ permalink: /research/lswus
 category: manuscripts
 date: 2024-10-23
 ---
-<small>*[Honorable mention](https://urbaneconomics.org/meetings/awards.html) for best student paper at the 2024 Urban Economics Association European meeting*. 
+<small>*[Honorable mention](https://urbaneconomics.org/meetings/awards.html) for best student paper at the 2024 Urban Economics Association European meeting*. <br>
        *[Winner](https://www.bankofcanada.ca/research/research-paper-awards/) of the Bank of Canada Student Award*.<small> 
 <details><summary>Abstract:</summary>
 <br/>
