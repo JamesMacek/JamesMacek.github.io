@@ -23,4 +23,4 @@ and Canada’s macroprudential regulatory institutions and environment.
  </small>
 </details>
 <br/>
-[Download Paper](http://jamesmacek.github.io/files/canadian_housing_markets.pdf)
+[Download Paper](http://jamesmacek.github.io/files/canada_housing_markets.pdf)
