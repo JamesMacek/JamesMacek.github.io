@@ -1,5 +1,5 @@
 ---
-title: "Housing Regulation and Neighborhood Sorting Across the United States <br> (Job Market Paper)"
+title: "Housing Regulation and Neighborhood Sorting Across the United States"
 collection: workingpapers
 permalink: /research/lswus
 category: manuscripts

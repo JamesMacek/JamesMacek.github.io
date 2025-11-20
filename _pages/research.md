@@ -11,7 +11,9 @@ author_profile: true
 <br/>
 
 {% for post in site.workingpapers reversed %}
-  {% include archive-single.html %}
+  <div class="research-card">
+    {% include archive-single.html %}
+  </div>
 <br style="line-height: 0.25;"/>
 {% endfor %}
 
