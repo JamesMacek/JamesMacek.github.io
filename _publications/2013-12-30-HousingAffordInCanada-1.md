@@ -5,7 +5,7 @@ permalink: /research/afford_in_canada
 category: manuscripts
 date: 2024-09-01
 ---
-with [Nathaniel Baum-Snow](https://sites.google.com/site/baumsnow/home) and [Aled ab Iowerth](https://www.linkedin.com/in/aled-ab-iorwerth/?originalSubdomain=ca) 
+with [Nathaniel Baum-Snow](https://sites.google.com/site/baumsnow/home) and [Aled ab Iorwerth](https://www.linkedin.com/in/aled-ab-iorwerth/?originalSubdomain=ca) 
 <br/> <br/>
 <small> Accepted, *Canadian Journal of Economics*
 <br/>
