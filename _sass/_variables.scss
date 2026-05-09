@@ -117,7 +117,7 @@ $large                      : 925px !default;
 $x-large                    : 1280px !default;
 
 // Transformations for scroll bar width.
-$scroll_bar_width_factor    : 3;
+$scroll_bar_width_factor    : 3.75;
 
 $small-sb                      : ($small / $scroll_bar_width_factor);
 $medium-sb                     : ($medium / $scroll_bar_width_factor);

@@ -77,7 +77,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top; // photo and other things alligned at the top when there's no breakpoint.
-  width: 250px; // set 100px -- only will adjust when at no breakpoint (smallest screen size)
+  width: 200px; // set 100px -- only will adjust when at no breakpoint (smallest screen size)
   // set width only, for non-square avatars
   // height: 36px;
 
