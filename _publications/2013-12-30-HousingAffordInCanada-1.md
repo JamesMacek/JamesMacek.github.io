@@ -27,3 +27,5 @@ environment.
 </details>
 <br/>
 [Download Paper](http://jamesmacek.github.io/files/canada_housing_markets.pdf)
+
+[Published Version](https://onlinelibrary.wiley.com/doi/10.1111/caje.70054)
