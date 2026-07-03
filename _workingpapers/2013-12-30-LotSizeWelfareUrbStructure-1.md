@@ -25,4 +25,4 @@ housing affordability. Other counterfactual exercises underscore the lack of inc
 unilaterally deregulate and show a significant opportunity for improved spatial targeting. </small>
 </details>
 <br/>
-[Download Paper](http://jamesmacek.github.io/files/JamesMacek_JMP_HousingRegNhoodSortUS.pdf)
+[Download Paper](http://jamesmacek.github.io/files/JamesMacek_JMP_HousingRegNhoodSortUS_June2026.pdf)
