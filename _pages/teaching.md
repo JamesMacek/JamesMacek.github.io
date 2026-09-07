@@ -3,5 +3,16 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<br>
-I will be teaching BUEC 211 in Winter 2026. Check back soon for details. 
+
+{% include base_path %}
+<br/>
+
+<h2> Courses </h2>
+<br/>
+
+{% for post in site.teaching reversed %}
+  <div class="teaching-card">
+    {% include archive-single.html %}
+  </div>
+<br style="line-height: 0.25;"/>
+{% endfor %}

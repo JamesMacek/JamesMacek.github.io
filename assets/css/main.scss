@@ -40,8 +40,9 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Boxes around each research entry */
-.research-card {
+/* Boxes around each research and teaching entry */
+.research-card,
+.teaching-card {
   border: 1px solid #e0e0e0;
   border-radius: 8px;
   padding: 1.25rem 1.5rem;

@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "James Macek"
-  avatar           : "profile.png"
+  avatar           : "profile_crop.png"
   bio              : " " #Empty bio for spacing
   location         : "Edmonton, AB"
   employer         :

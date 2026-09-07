@@ -88,11 +88,15 @@
   }
 
   img {
-    max-width: 2500px; //This is the max width allowable for the picture. This will not change the
-                       //actual width-- see above. sidebar length will determine max side of the picture.
-    border-radius: 85%; // put back border. 
+    max-width: 250px; // caps the displayed size of the avatar
+    width: 100%;
+    border-radius: 0; // keep 0: the squircle (superellipse, n=6) is baked into
+                      // profile_crop.png's alpha channel, not done in CSS
 
     @include breakpoint($large) {
+      display: block;
+      margin-left: auto;  // centre the photo in the sidebar column
+      margin-right: auto;
       padding: 5px;
       border: 0px solid $border-color; // no border color
     }
