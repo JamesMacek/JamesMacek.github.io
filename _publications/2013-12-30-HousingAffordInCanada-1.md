@@ -7,7 +7,7 @@ date: 2024-09-01
 ---
 with [Nathaniel Baum-Snow](https://sites.google.com/site/baumsnow/home) and [Aled ab Iorwerth](https://www.linkedin.com/in/aled-ab-iorwerth/?originalSubdomain=ca) 
 <br/> <br/>
-<small> Accepted, *Canadian Journal of Economics*
+<small> *Canadian Journal of Economics*, 2026, 59(1): 4–41
 <br/>
 <details><summary>Abstract:</summary>
 <br/>
@@ -26,6 +26,4 @@ environment.
  </small>
 </details>
 <br/>
-[Download Paper](http://jamesmacek.github.io/files/canada_housing_markets.pdf)
-<br/>
-[Published Version](https://onlinelibrary.wiley.com/doi/10.1111/caje.70054)
+[Download Paper](http://jamesmacek.github.io/files/canada_housing_markets.pdf) &nbsp; / &nbsp; [Published Version](https://onlinelibrary.wiley.com/doi/10.1111/caje.70054) &nbsp; / &nbsp; [Replication Package](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/MAXFEF)
